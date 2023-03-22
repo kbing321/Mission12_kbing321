@@ -326,10 +326,12 @@ const ballTeams = [
             {"tid": 287, "cid": 19, "did": 39, "school": "Houston Baptist", "name": "Huskies", "abbrev": "HBU", "pop": 33, "city": "Greater Sharpstown", "state": "TX", "latitude": 29.694 , "longitude": -95.515}  
 ]
 
+// header for page
 function Heading() {
   return (<h1>Welcome to the most amazing list of all the NCAA basketball teams!!</h1>);
 }
 
+// create one team card
 class Team extends React.Component <{school: string; name: string; city: string; state: string;}>{
   render() {
     
@@ -343,7 +345,7 @@ class Team extends React.Component <{school: string; name: string; city: string;
     );
   }
 }
-
+// List of team cards
 function TeamList() {
   return (
     <div>
@@ -352,6 +354,7 @@ function TeamList() {
   );
 }
 
+// call other functions to display on page
 function App() {
   return (
     <div>
@@ -362,28 +365,3 @@ function App() {
 }
 
 export default App;
-
-
-// function App() {
-
-//   return (
-//     <div className="App">
-//       <header className="App-header">
-//         <img src={logo} className="App-logo" alt="logo" />
-//         <p>
-//           Edit <code>src/App.tsx</code> and save to reload.
-//         </p>
-//         <a
-//           className="App-link"
-//           href="https://reactjs.org"
-//           target="_blank"
-//           rel="noopener noreferrer"
-//         >
-//           Learn React
-//         </a>
-//       </header>
-//     </div>
-//   );
-// }
-
-// export default App;
