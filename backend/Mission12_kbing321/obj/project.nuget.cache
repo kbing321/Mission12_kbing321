@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "RzPdtW5bPrZtHFO7JVwcFIOchq75X/H0sFDIXkCkzGlRdpRvWUnTJDKRg0CHXMlfgtaQ0iHZjdraRJaNSUMI7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kohlt\\source\\repos\\Mission12_kbing321\\backend\\Mission12_kbing321\\Mission12_kbing321.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kohlt\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\kohlt\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\kohlt\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\kohlt\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\kohlt\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\kohlt\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
